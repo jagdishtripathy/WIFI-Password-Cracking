@@ -94,11 +94,11 @@ KEY FOUND! [ your_wifi_password ]
 ----------------
 
 ```text
-`KEY FOUND! [ iloveyou ]
+KEY FOUND! [ iloveyou ]
 
 Master Key     : 34 4D B2 ...
 Transient Key  : F1 52 5B ...
-EAPOL HMAC     : 4B 63 5E ...`
+EAPOL HMAC     : 4B 63 5E ...
 ```
 * * * * *
 
